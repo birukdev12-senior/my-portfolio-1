@@ -1,20 +1,13 @@
-# 🚀 My Professional Portfolio
+## 📖 Project Overview
+This Weather Application allows users to search for current weather information for any city worldwide. It demonstrates my ability to work with **REST APIs**, **Asynchronous JavaScript (Async/Await)**, and **Dynamic DOM Manipulation**.
 
-This is a responsive personal portfolio website built to showcase my skills as a **Full-Stack Developer**. The project focuses on clean code, modern design, and mobile-first responsiveness.
+### 🚀 Key Features
+* **Live Data:** Fetches real-time temperature and weather descriptions.
+* **Search Functionality:** Users can input any city name to get instant results.
+* **Responsive Design:** Optimized for both mobile and desktop views.
+* **Error Handling:** Gracefully handles invalid city names or API issues.
 
-## 🔗 Quick Links
-* **Live Demo:** [ሊንክህን እዚህ አስገባ]
-* **LinkedIn Profile:** [የሊንክድኢን ፕሮፋይልህን እዚህ አስገባ]
-
-## ✨ Key Features
-* **Fully Responsive:** Works perfectly on mobile, tablet, and desktop screens.
-* **Modern UI:** Built with a focus on user experience (UX).
-* **Contact Integration:** Includes a functional contact form/section.
-
-## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript.
-* **Tools:** Git, GitHub.
-
-## ⚙️ How to View
-1. Clone the repository.
-2. Open `index.html` in any web browser.
+### 🛠️ Technologies Used
+* **HTML5 & CSS3:** For structure and modern styling.
+* **JavaScript (ES6+):** For the logic and API integration.
+* **OpenWeatherMap API:** As the primary data source.
