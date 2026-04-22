@@ -19,4 +19,4 @@ This Weather Application allows users to search for current weather information 
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/btsegaye012-crypto/my-portfolio-1.git](https://github.com/btsegaye012-crypto/my-portfolio-1.git)
+   git clone [https://github.com/birukdev12-senior/my-portfolio-1.git](https://github.com/birukdev12-senior/my-portfolio-1.git)
