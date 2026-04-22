@@ -1,6 +1,6 @@
 # 🌦️ Weather Application
 
-[🚀 Live Demo](https://btsegaye012-crypto.github.io/my-portfolio-1/) 
+[🚀 Live Demo](https://birukdev12-senior.github.io/my-portfolio-1/) 
 
 ## 📖 Project Overview
 This Weather Application allows users to search for current weather information for any city worldwide. It demonstrates my ability to work with **REST APIs**, **Asynchronous JavaScript (Async/Await)**, and **Dynamic DOM Manipulation**.
